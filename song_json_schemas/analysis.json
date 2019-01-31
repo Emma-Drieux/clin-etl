@@ -1,18 +1,18 @@
 {
   "institution": {
-    "institutionId": "string",
+    "institution_id": "string",
     "name": "string",
-    "adresse": "string"
+    "address": "string"
   },
   "files": {
-    "orderFormId": "string",
-    "fileName": "string",
+    "order_form_id": "string",
+    "file_name": "string",
     "note": "string",
-    "seqJustification": "string"
+    "seq_justification": "string"
   },
   "report": {
-    "reportName": "string",
-    "creationDate": "string",
+    "report_name": "string",
+    "creation_date": "string",
     "comments": "string"
   }
 }

@@ -1,20 +1,20 @@
 {
   "pipeline": {
-    "pipelineID": "string",
+    "pipeline_id": "string",
     "name": "string",
     "version": "string",
     "source": "string",
     "description": "string",
     "release_note": "string",
     "release_date": "string",
-    "documentationFilePath": "string"
+    "documentation_file_path": "string"
   },
   
-  "variantsFile": {
-    "variantFileId": "string",
-    "filePath": "string",
-    "fileName": "string",
-    "scriptPath": "string",
-    "creationDate": "string"
+  "variants_file": {
+    "variant_file_id": "string",
+    "file_path": "string",
+    "file_name": "string",
+    "script_path": "string",
+    "creation_date": "string"
   }
 }

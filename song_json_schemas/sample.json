@@ -1,6 +1,6 @@
 {
-  "CIGCP_sampleID": "string",
-  "sampleProjet": "string",
+  "CIGCP_sample_id": "string",
+  "sample_Projet": "string",
   "sampleName": "string"
 }
 

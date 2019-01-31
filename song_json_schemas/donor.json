@@ -1,46 +1,43 @@
 {
   "institution": {
-    "MRN_InstitutionID": "string",
+    "MRN_institution_id": "string",
     "patient_hospital": "string"
   },
-  "patient_data": {
-    "MRN_Patient": "string",
-    "last_name": "string",
-    "first_name": "string",
-    "birth_DD/MM/YY": "string",
-    "fetus": "boolean",
-    "consanguinity": "boolean",
-    "ethnicity": "string",
-    "race": "string",
-    "phenotype": "string",
-    "proband": "boolean",
-    "physician": {
-      "name": "string",
-      "institution": "string",
-      "phone": "string",
-      "fax": "string"
-    },
-    "pregnancy": {
-      "prematurity": {
-        "prematurity": "string",
-        "description": "string"
-      },
-      "ultrasound_findings": {
-        "abnormal": "string",
-        "description": "string"
-      }
-    },
-    "family_history": "string"
+  "MRN_patient": "string",
+  "last_name": "string",
+  "first_name": "string",
+  "birth_date": "string",
+  "fetus": "boolean",
+  "consanguinity": "boolean",
+  "ethnicity": "string",
+  "race": "string",
+  "phenotype": "string",
+  "proband": "boolean",
+  "physician": {
+    "name": "string",
+    "institution": "string",
+    "phone": "string",
+    "fax": "string"
   },
-  
+  "pregnancy": {
+    "prematurity": {
+      "prematurity": "string",
+      "description": "string"
+    },
+    "ultrasound_findings": {
+      "abnormal": "string",
+      "description": "string"
+    }
+  },
+  "family_history": "string",
   "family": {
-    "idFamily": "string",
-    "familyDesign": "string",
-    "familyName": "string",
+    "family_id": "string",
+    "family_design": "string",
+    "family_name": "string",
     "relatives": {
-      "motherId": "string",
-      "fatherId": "string",
-      "childId": "string"
+      "mother_id": "string",
+      "father_id": "string",
+      "child_id": "string"
     }
   },
   
@@ -68,7 +65,7 @@
         "abnormal": "string",
         "description": "string"
       },
-      "ID": {
+      "id": {
         "abnormal": "string",
         "description": "string"
       },

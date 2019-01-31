@@ -1,6 +1,6 @@
 {
     "reception_date": "string",
-    "orderFormId": "string",
+    "order_form_id": "string",
 
     "references": {
         "PI": {
@@ -12,6 +12,5 @@
             "submitter_email": "string",
             "submitter_tel": "string"
         }
-        
     }
 }

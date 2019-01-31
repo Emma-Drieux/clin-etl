@@ -1,5 +1,5 @@
 {
-  "type_inStudyDesign": "string",
+  "type_in_study_design": "string",
   "project_id": "string",
   "project_name": "string"
 }
