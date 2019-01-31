@@ -1,0 +1,17 @@
+{
+    "reception_date": "string",
+    "orderFormId": "string",
+
+    "references": {
+        "PI": {
+            "PI_name": "string",
+            "PI_name": "string"
+        },
+        "submitter": {
+            "submitter_name": "string",
+            "submitter_email": "string",
+            "submitter_tel": "string"
+        }
+        
+    }
+}
