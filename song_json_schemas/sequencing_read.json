@@ -1,59 +1,7 @@
 {
-  "lab_id": "string",
-  "date": {
-    "start": "string",
-    "end": "string"
-  },
-
-  "DNA_extraction":{
-    "extraction_type": "string",
-    "concentration_nM":"float"
-  },
-
-  "DNA_library_ngs_methods": {
-    "type_of_sequencing": "string",
-    "platform_data": {
-      "platform_id": "string",
-      "platform": "string",
-      "note": "string"
-    },
-    "sbs": "string",
-    "capture_kit_name": "string",
-    "plate_barcode": "string",
-    "illumina_run_id": "string",
-    "fragment_size_pb": "string",
-    "quantification_method": "string"
-  },
-  "instrument": {
-    "instrument_model": "string",
-    "instrument_id": "string",
-    "run_mode": "string",
-    "application_name": "string",
-    "application_version": "string"
-  },
-  "reads_info": {
     "mean_read_length": "integer",
-    "total_reads": "integer"
-  },
-  "flowcell": {
-    "flowcell": "string",
-    "type": "string"
-  },
-  "reads_mapping": {
+    "total_reads": "integer",
     "reference_mapping_species": "string",
     "version": "string"
-  },
-  "lab_data": {
-    "lab_id": "integer",
-    "contact": {
-      "id": "integer",
-      "title": "string",
-      "last_name": "string",
-      "first_name": "string",
-      "initials": "string",
-      "email": "string",
-      "telephone": "string"
-    }
-  }
 }
 
