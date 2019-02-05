@@ -1,5 +1,4 @@
 {
-  "id": "string",
   "aligned": "boolean",
   "alignmentTool": "string",
   "insertSize": "integer",
