@@ -1,9 +1,8 @@
 
 {
-  "id_analysis":"string",
-  "id_study":"string",
   "type":"string",
   "state":"string",
+  
   "info":{
  
   }
