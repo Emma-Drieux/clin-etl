@@ -1,7 +1,17 @@
 {
+  "id": "string",
+  "aligned": "boolean",
+  "alignmentTool": "string",
+  "insertSize": "integer",
+  "libraryStrategy": "string",
+  "pairedEnd": "string",
+  "referenceGenome": "string",
+    
+    
+  "info": {
     "mean_read_length": "integer",
     "total_reads": "integer",
     "reference_mapping_species": "string",
     "version": "string"
+  }
 }
-
