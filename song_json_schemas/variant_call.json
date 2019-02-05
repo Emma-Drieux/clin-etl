@@ -1,10 +1,15 @@
 {
-  "pipeline": {
-    "pipeline_id": "string",
-    "name": "string",
-    "version": "string",
-    "source": "string",
-    "description": "string",
-    "release_date": "string",
-  } 
+  "variantCallingTool": "string",
+  "matched_normal_sample_submitter_id": "string",
+  
+  "info": {
+    "pipeline": {
+      "pipeline_id": "string",
+      "name": "string",
+      "version": "string",
+      "source": "string",
+      "description": "string",
+      "release_date": "string"
+    }
+  }
 }
