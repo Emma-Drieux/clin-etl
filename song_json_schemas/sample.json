@@ -1,5 +1,11 @@
 {
-  "CIGCP_sample_id": "string",
-  "sampleName": "string"
+  "id_sample": "string",
+  "id_specimen": "string",
+  "id_submitter": "string",
+  
+  "info": {
+    "CIGCP_sample_id": "string",
+    "sampleName": "string"
+  }
 }
 
