@@ -32,6 +32,7 @@
   "family_history": "string",
   "family": {
     "family_id": "string",
+    "type_in_study_design": "string",
     "family_design": "string",
     "family_name": "string",
     "relatives": {
