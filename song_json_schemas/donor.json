@@ -18,7 +18,6 @@
     "consanguinity": "boolean",
     "ethnicity": "string",
     "race": "string",
-    "phenotype": "string",
     "proband": "boolean",
     "physician": {
       "name": "string",
