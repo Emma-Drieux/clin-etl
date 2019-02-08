@@ -243,6 +243,7 @@
         }
       }
     },
-    "dianostic_hypothesis": "string"
+    "dianostic_hypothesis": "string",
+    "seq_justification":"string"
   }
 }
