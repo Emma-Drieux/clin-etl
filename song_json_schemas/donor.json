@@ -49,7 +49,7 @@
     "CGH": {
       "abnormal": "boolean",
       "text": "string",
-      "clinical_investigation_summary": "string",
+      "clinical_investigation_summary": "string"
     },
     "clinical_data": {
       "neurological": {
