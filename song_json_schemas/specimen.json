@@ -8,7 +8,8 @@
     "order_form_id": "string",
     "references": {
       "PI": {
-        "PI_name": "string"
+        "PI_name": "string",
+        "PI_email":"string"
       },
       "submitter": {
         "submitter_name": "string",
