@@ -244,6 +244,7 @@
       }
     },
     "dianostic_hypothesis": "string",
-    "seq_justification":"string"
+    "seq_justification":"string",
+    "phenotips_id":"string"
   }
 }
