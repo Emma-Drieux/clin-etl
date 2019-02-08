@@ -4,5 +4,7 @@
   "organistation": "string",
   
   
-  "info": {}
+  "info": {
+    "project_id":"integer"
+  }
 }
