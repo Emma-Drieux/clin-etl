@@ -49,10 +49,10 @@
     },
     "CGH": {
       "abnormal": "boolean",
-      "text": "string"
+      "text": "string",
+      "clinical_investigation_summary": "string",
     },
     "clinical_data": {
-      "clinical_investigation_summary": "string",
       "neurological": {
         "DMM": {
           "abnormal": "string",
