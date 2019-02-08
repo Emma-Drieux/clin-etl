@@ -3,7 +3,7 @@
   "alignmentTool": "string",
   "insertSize": "integer",
   "libraryStrategy": "string",
-  "pairedEnd": "string",
+  "pairedEnd": "boolean",
   "referenceGenome": "string",
     
     
