@@ -6,16 +6,15 @@
   "info": {
     "reception_date": "string",
     "order_form_id": "string",
-    "references": {
-      "PI": {
-        "PI_name": "string",
-        "PI_email":"string"
+    "contact": {
+      "title":"string",
+      "first_name":"string",
+      "last_name":"string",
+      "tel":{
+        "tel":"string",
+        "extension":"string"
       },
-      "submitter": {
-        "submitter_name": "string",
-        "submitter_email": "string",
-        "submitter_tel": "string"
-      }
+      "email":"string"
     }
   }
 }
