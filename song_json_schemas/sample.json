@@ -1,5 +1,6 @@
 {
   "id_submitter": "string",
+  "type":"string",
   
   "info": {
     "CIGCP_sample_id": "string",
