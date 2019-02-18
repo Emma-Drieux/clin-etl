@@ -3,13 +3,6 @@
   "matched_normal_sample_submitter_id": "string",
   
   "info": {
-    "pipeline": {
-      "pipeline_id": "integer",
-      "name": "string",
-      "version": "string",
-      "source": "string",
-      "description": "string",
-      "release_date": "string"
-    }
+    "date_report":"string"
   }
 }
