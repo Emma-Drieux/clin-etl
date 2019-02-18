@@ -3,8 +3,7 @@
   "type":"string",
   
   "info": {
-    "CIGCP_sample_id": "string",
-    "sampleName": "string"
+    "CIGCP_sample_id": "string"
   }
 }
 
