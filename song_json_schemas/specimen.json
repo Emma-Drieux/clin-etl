@@ -7,16 +7,5 @@
   "info": {
     "reception_date": "string",
     "order_form_id": "integer",
-    "contact": {
-      "contact_id":"integer",
-      "title":"string",
-      "first_name":"string",
-      "last_name":"string",
-      "tel":{
-        "tel":"string",
-        "extension":"string"
-      },
-      "email":"string"
-    }
   }
 }
