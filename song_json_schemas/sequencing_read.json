@@ -8,6 +8,7 @@
     
     
   "info": {
+    "avr_depth":"string",
     "run_dates":{
       "debut":"string",
       "fin":"string"
