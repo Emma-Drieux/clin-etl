@@ -5,7 +5,5 @@
     
     
   "info": {
-    "reception_date": "string",
-    "order_form_id": "integer",
   }
 }
