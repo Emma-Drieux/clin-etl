@@ -8,13 +8,5 @@
     
     
   "info": {
-    "mean_read_length": "integer",
-    "total_reads": "integer",
-    "reference_mapping_species": "string",
-    "version": "string",
-    "ngs_device":{
-      "compagny":"string",
-      "name":"string"
-    }
   }
 }
